@@ -1,8 +1,28 @@
-Breast Cancer Data Analysis Dashboard
+# Breast Cancer Data Analysis
 
-The dashboard combines insights from the Diagnostic (WDBC) and Prognostic (WPBC) datasets:
+## 📊 Project Overview
+This project analyzes breast cancer datasets to identify patterns in diagnosis, prognosis, and recurrence.
 
-1. Diagnosis Distribution: Shows the balance between Malignant (M) and Benign (B) cases in the diagnostic dataset.
-2. Tumor Size vs. Lymph Node Status: Highlights that Recurrent cases (R) often present with larger tumor sizes and higher lymph node counts compared to Non-Recurrent cases (N).
-3. Time Distribution: Displays the distribution of time-to-recurrence vs. disease-free time.
-4. Kaplan-Meier Survival Curve: Estimates the probability of remaining disease-free over time.
+## 🎯 Objectives
+- Understand key factors influencing diagnosis
+- Identify recurrence patterns
+- Visualize trends for decision-making
+
+## 🛠 Tools & Technologies
+- Python (Pandas, Matplotlib, Seaborn)
+- Jupyter Notebook
+
+## 📈 Key Insights
+- Identified correlation between tumor size and recurrence risk
+- Visualized distribution of diagnosis categories
+
+## 📂 Dataset
+- Kaggle
+
+## 🚀 How to Run
+1. Clone repo
+2. Open notebook
+3. Run cells
+
+## 👩‍💻 Author
+Abigael Ajala
